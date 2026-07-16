@@ -1,0 +1,10 @@
+# Ignore heavy datasets
+wilk_covid19_pbmc.h5ad
+results/
+
+# Python cache & Jupyter files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.DS_Store
