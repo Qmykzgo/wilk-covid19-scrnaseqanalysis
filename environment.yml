@@ -1,0 +1,27 @@
+name: covid-scrnaseq-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - r-base=4.2
+  - r-biocmanager
+  - bioconductor-edger
+  - jupyterlab
+  - rpy2
+  - pip
+  - pip:
+    - scanpy
+    - anndata
+    - pandas
+    - numpy
+    - matplotlib
+    - scrublet
+    - harmonypy
+    - celltypist
+    - pydeseq2
+    - leidenalg
+    - igraph
+    - liana
+    - git+https://github.com/saezlab/milopy.git

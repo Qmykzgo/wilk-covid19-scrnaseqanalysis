@@ -1,0 +1,13 @@
+scanpy
+anndata
+pandas
+numpy
+matplotlib
+scrublet
+harmonypy
+celltypist
+pydeseq2
+leidenalg
+igraph
+liana
+git+https://github.com/saezlab/milopy.git

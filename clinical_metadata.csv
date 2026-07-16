@@ -1,0 +1,15 @@
+sample_id,ventilation_status,disease_status
+C1_d9,non_ventilated,covid19
+C1_d11,ventilated,covid19
+C2,ventilated,covid19
+C3,non_ventilated,covid19
+C4,non_ventilated,covid19
+C5,ventilated,covid19
+C6,ventilated,covid19
+C7,non_ventilated,covid19
+H1,healthy,healthy
+H2,healthy,healthy
+H3,healthy,healthy
+H4,healthy,healthy
+H5,healthy,healthy
+H6,healthy,healthy
